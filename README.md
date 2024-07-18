@@ -1,3 +1,2 @@
-###This is Readme file
-
-
+# UI Automation Framework
+This project is a comprehensive Test Automation Framework designed to streamline the process of testing web applications. It utilizes Selenium WebDriver for browser automation, Maven for project management and build automation, TestNG for test execution and reporting, and Page Object Model (POM) for maintaining code modularity and reusability. Additionally, it integrates Extent Reports for detailed test result reporting.
