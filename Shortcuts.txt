@@ -1,6 +1,0 @@
-
-
-1-> To navigate between files easily 
-Just enter cmd+shift+R and type the file which you wanted to navigate to!
-2-> This is regarding Imports
-cmd+shift+O -> it will show the imports which are to be imported and just select them to import them in the class in you are!
